@@ -11,54 +11,49 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D Department of Physics, Beijing Normal University, Beijing, China, 2023
+* B.S. School of Mathematics and Statistics, Lanzhou University, Lanzhou, China, 2016
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Postdoc Institute of Physics, University of Mainz, Mainz, Germany, 2023-At present
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+%* Fall 2015: Research Assistant
+%  * GitHub University
+%  * Duties included: Merging pull requests
+%  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Research Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Liquid-liquid Phase Separation and Sol-Gel Transition in RNA-Protein Solution
+* Reversible Crosslinking Process in the Associative Polymer Solution
+* Dynamics of Phase Separation in Polymer Blends
+* Swelling and Elastic Properties of Polymer Network System
+
+Computer Skills
+======
+* C/C++, Fortran, Python
+* Matlab, Mathematica, HOOMD-BLUE
+* Self-Consistent Field Theory (SCFT), Dynamic Self-Consistent Field Theory Method (DSCFT), Molecular Dynamics (MD) simulation, Monte Carlo (MC) method
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
+  <ul>{Xinxiang Chen, Jude Ann Vishnu, Pol Besenius, Julian Konig, Friederike Schmid, Sol–Gel Transition in Heteroassociative RNA-Protein Solutions: A Quantitative Comparison of Coarse-Grained Simulations and the Semenov–Rubinstein Theory, Macromolecules, 58(6), 3331–3342 (2025).}
+    {https://doi.org/10.1021/acs.macromol.4c03065}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+%Talks
+%======
+%  <ul>{% for post in site.talks reversed %}
+%    {% include archive-single-talk-cv.html  %}
+%  {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+%Teaching
+%======
+%  <ul>{% for post in site.teaching reversed %}
+%    {% include archive-single-cv.html %}
+%  {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+%Service and leadership
+%======
+%* Currently signed in to 43 different slack teams
