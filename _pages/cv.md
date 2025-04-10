@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D, Department of Physics, Beijing Normal University, Beijing, China, 2023
-* B.S., School of Mathematics and Statistics, Lanzhou University, Lanzhou, China, 2016
+* Ph.D, Department of Physics, Beijing Normal University, Beijing, China, 2017-2023
+* B.S., School of Mathematics and Statistics, Lanzhou University, Lanzhou, China, 2012-2016
 
 Work experience
 ======
