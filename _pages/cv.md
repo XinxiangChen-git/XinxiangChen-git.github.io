@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D Department of Physics, Beijing Normal University, Beijing, China, 2023
-* B.S. School of Mathematics and Statistics, Lanzhou University, Lanzhou, China, 2016
+* Ph.D, Department of Physics, Beijing Normal University, Beijing, China, 2023
+* B.S., School of Mathematics and Statistics, Lanzhou University, Lanzhou, China, 2016
 
 Work experience
 ======
-Postdoc Institute of Physics, University of Mainz, Mainz, Germany, 2023-At present
+Postdoc, Institute of Physics, University of Mainz, Mainz, Germany, 2023-At present
 
 Research Interests
 ======
