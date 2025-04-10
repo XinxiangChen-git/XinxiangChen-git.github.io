@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-Postdoc, Institute of Physics, University of Mainz, Mainz, Germany, 2023-At present
+* Postdoc, Institute of Physics, University of Mainz, Mainz, Germany, 2023-At present
 
 Research Interests
 ======
