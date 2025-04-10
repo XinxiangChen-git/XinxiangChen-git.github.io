@@ -18,11 +18,6 @@ Work experience
 ======
 Postdoc Institute of Physics, University of Mainz, Mainz, Germany, 2023-At present
 
-% * Fall 2015: Research Assistant
-%  * GitHub University
-%  * Duties included: Merging pull requests
-%  * Supervisor: Professor Hub
-
 Research Interests
 ======
 * Liquid-liquid Phase Separation and Sol-Gel Transition in RNA-Protein Solution
