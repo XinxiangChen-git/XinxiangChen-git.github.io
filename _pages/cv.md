@@ -18,7 +18,7 @@ Work experience
 ======
 Postdoc Institute of Physics, University of Mainz, Mainz, Germany, 2023-At present
 
-%* Fall 2015: Research Assistant
+% * Fall 2015: Research Assistant
 %  * GitHub University
 %  * Duties included: Merging pull requests
 %  * Supervisor: Professor Hub
