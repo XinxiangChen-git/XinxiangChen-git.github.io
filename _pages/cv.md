@@ -38,8 +38,8 @@ Computer Skills
 
 Publications
 ======
-  <ul>{Xinxiang Chen, Jude Ann Vishnu, Pol Besenius, Julian Konig, Friederike Schmid, Sol–Gel Transition in Heteroassociative RNA-Protein Solutions: A Quantitative Comparison of Coarse-Grained Simulations and the Semenov–Rubinstein Theory, Macromolecules, 58(6), 3331–3342 (2025).}
-    {https://doi.org/10.1021/acs.macromol.4c03065}
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 %Talks
